@@ -12,8 +12,6 @@
 <p>As a front-end web developer with back-end proficiency, I thrive on discussing technology, software, coding, and innovative ideas. <br>
 I'm actively seeking employment opportunities, whether they are in the onsite or remote.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developerachem&label=Profile%20views&color=0e75b6&style=flat" alt="developerachem" /> </p>
-
 <p> <a href="https://twitter.com/developerachem" target="_blank"><img src="https://img.shields.io/twitter/follow/developerachem?logo=twitter&style=for-the-badge" alt="developerachem" /></a> <a href="https://www.linkedin.com/in/developerachem/" target="_blank" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  /> </a>
 </p>
 
@@ -44,5 +42,5 @@ I'm actively seeking employment opportunities, whether they are in the onsite or
 </p>
 
 <h3 align="left">🔥 My Stats:</h3>
-<p> <img src="https://streak-stats.demolab.com?user=developerachem&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /></p>
+<p> <img src="https://streak-stats.demolab.com?user=developerachem&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /></p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerachem&label=Profile%20views&color=0e75b6&style=flat" alt="developerachem" /> </p>
 
