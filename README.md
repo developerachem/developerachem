@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/dgVFmSD/Portfolio-page-banner.jpg" /> 
+<img width="100%" src="https://i.ibb.co/dgVFmSD/Portfolio-page-banner.jpg" /> 
 
 <h1 >Hi 👋, I'm Developer Achem</h1>
 
