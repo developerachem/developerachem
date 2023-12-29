@@ -31,12 +31,9 @@ I'm actively seeking employment opportunities, whether they are in the onsite or
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/developerachem" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="developerachem" height="30" width="40" /></a>
 <a href="https://twitter.com/developerachem" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="developerachem" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/developerachem" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developerachem" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/developer-achem-137b18227/?originalSubdomain=bd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developerachem" height="30" width="40" /></a>
 <a href="https://fb.com/developerachem" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="developerachem" height="30" width="40" /></a>
-<a href="https://instagram.com/developerachem" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developerachem" height="30" width="40" /></a>
-<a href="https://www.behance.net/developerachem" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="developerachem" height="30" width="40" /></a>
 <a href="https://discord.gg/developerachem" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="developerachem" height="30" width="40" /></a>
 </p>
 
