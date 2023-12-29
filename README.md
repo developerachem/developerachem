@@ -18,6 +18,7 @@ I'm actively seeking employment opportunities, whether they are in the onsite or
 </p>
 
 - 🌱 I’m currently learning *****PHP Laravel*****
+- 🔭 I’m currently working on ****Fluxx****
 
 
 <h3>Specialized In </h3> 
