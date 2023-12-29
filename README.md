@@ -41,6 +41,11 @@ I'm actively seeking employment opportunities, whether they are in the onsite or
 </p>
 
 <h3 align="left">🔥 My Stats:</h3>
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developerachem&show_icons=true&locale=en&layout=compact" alt="developerachem" /> <img src="https://streak-stats.demolab.com?user=developerachem&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> </p>
+<p><img src="https://streak-stats.demolab.com?user=developerachem&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> </p>
+
+<h3>🔥 My Progress:</h3>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developerachem&show_icons=true&locale=en&layout=compact" alt="developerachem" /> 
+</p>
 
 
