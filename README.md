@@ -15,7 +15,7 @@ I'm actively seeking employment opportunities, whether they are in the onsite or
 <p> <a href="https://twitter.com/developerachem" target="_blank"><img src="https://img.shields.io/twitter/follow/developerachem?logo=twitter&style=for-the-badge" alt="developerachem" /></a> <a href="https://www.linkedin.com/in/developerachem/" target="_blank" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  /> </a>
 </p>
 
-- 🌱 I’m currently learning *****PHP Laravel*****
+- 🌱 I’m currently learning *****Electron JS*****
 - 🔭 I’m currently working on ****Fluxx****
 
 
