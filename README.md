@@ -29,6 +29,28 @@ I'm actively seeking employment opportunities, whether they are in the onsite or
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1b9c3034aa078ebfac8da21d4a43ab67da92ad801a08c4b9b04cfecfb54df2d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d56697375616c2d53747564696f2d436f6465266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/1b9c3034aa078ebfac8da21d4a43ab67da92ad801a08c4b9b04cfecfb54df2d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d56697375616c2d53747564696f2d436f6465266c6f676f436f6c6f723d7768697465" alt="VS Code" data-canonical-src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&amp;logo=Visual-Studio-Code&amp;logoColor=white" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e56fabf10c6279837b862f53dab44e7a4afedbb2ee9b4c91881e5d22e6f379e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d476974266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/e56fabf10c6279837b862f53dab44e7a4afedbb2ee9b4c91881e5d22e6f379e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d476974266c6f676f436f6c6f723d7768697465" alt="Git" data-canonical-src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&amp;logo=Git&amp;logoColor=white" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ab157f6775de79be0a1001ed37be1ec4ec4529a9de146f306700d725aea9bce5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/ab157f6775de79be0a1001ed37be1ec4ec4529a9de146f306700d725aea9bce5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465" alt="Github" data-canonical-src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0c93f74bb993c965a32c516cc63016ff0ffc366d43c7dd59aac3c33992bfb64a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d4632344531452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4669676d61266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/0c93f74bb993c965a32c516cc63016ff0ffc366d43c7dd59aac3c33992bfb64a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d4632344531452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4669676d61266c6f676f436f6c6f723d7768697465" alt="Figma" data-canonical-src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&amp;logo=Figma&amp;logoColor=white" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dd72407e4f508f754fd9e283c4707eba3c3acd439114eb34e37ec51b66fd9b93/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f566974652d3634364346462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d56697465266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/dd72407e4f508f754fd9e283c4707eba3c3acd439114eb34e37ec51b66fd9b93/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f566974652d3634364346462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d56697465266c6f676f436f6c6f723d7768697465" alt="Vite" data-canonical-src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&amp;logo=Vite&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
+# 💻 Tech Stack:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,github,mongodb,express,react,nodejs,tailwind,materialui,bootstrap,firebase&perline=4" />
+  </a>
+</p>
+
+# 📊 GitHub Stats:
+
+<div align='center'>
+<img align="center" src="https://streak-stats.demolab.com?user=AdityaChowdhury2&theme=graywhite&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=700"/>
+
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaChowdhury2&theme=graywhite"/>
+
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdityaChowdhury2&theme=graywhite"/>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdityaChowdhury2&theme=graywhite"/>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdityaChowdhury2&theme=graywhite"/>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdityaChowdhury2&theme=graywhite"/>
+
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/developerachem" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="developerachem" height="30" width="40" /></a>
