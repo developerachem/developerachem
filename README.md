@@ -37,19 +37,6 @@ I'm actively seeking employment opportunities, whether they are in the onsite or
   </a>
 </p>
 
-# 📊 GitHub Stats:
-
-<div align='center'>
-<img align="center" src="https://streak-stats.demolab.com?user=AdityaChowdhury2&theme=graywhite&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=700"/>
-
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaChowdhury2&theme=graywhite"/>
-
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdityaChowdhury2&theme=graywhite"/>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdityaChowdhury2&theme=graywhite"/>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdityaChowdhury2&theme=graywhite"/>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdityaChowdhury2&theme=graywhite"/>
-
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
