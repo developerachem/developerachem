@@ -221,46 +221,6 @@ life_motto: "Code is poetry — write it beautifully."
 
 <br/>
 
-<!-- ─── HORIZONTAL DIVIDER ─────────────────────────────────────────────────── -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                      SNAKE CONTRIBUTION GRAPH                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🐍 &nbsp;Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/developerachem/developerachem/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/developerachem/developerachem/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/developerachem/developerachem/output/github-snake.svg" />
-</picture>
-
-> 💡 *If the snake animation doesn't appear yet, go to [Actions](https://github.com/developerachem/developerachem/actions) → "Generate Snake Animation" → "Run workflow" to generate it for the first time.*
-
-</div>
-
-<br/>
-
-<!-- ─── HORIZONTAL DIVIDER ─────────────────────────────────────────────────── -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                        SPOTIFY / CURRENT VIBES                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 💡 &nbsp;Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="70%"/>
-
-</div>
-
-<br/>
-
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                            FOOTER                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
