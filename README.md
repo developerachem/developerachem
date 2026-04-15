@@ -42,15 +42,12 @@
 ```yaml
 name: Developer Achem
 located_in: Dhaka, Bangladesh 🇧🇩
-current_role: Frontend Developer | MERN Stack Developer
+current_role: Software Engineer
 company: Working on exciting projects ✨
-
-education:
-  - "Computer Science & Engineering"
 
 focus_areas:
   - "Building scalable web applications"
-  - "Cross-platform mobile development"
+  - "Cross-platform mobile development (IOS/Android)"
   - "Modern UI/UX design & implementation"
   - "RESTful API architecture"
 
@@ -193,7 +190,10 @@ life_motto: "Code is poetry — write it beautifully."
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=developerachem&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=developerachem&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" alt="GitHub Trophies" />
+
+<!-- Fallback if above doesn't load -->
+<!-- <img src="https://github-trophies.vercel.app/?username=developerachem&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="95%" alt="GitHub Trophies" /> -->
 
 </div>
 
@@ -210,18 +210,18 @@ life_motto: "Code is poetry — write it beautifully."
 
 <div align="center">
 
-<a href="https://github.com/developerachem/Eridu">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=developerachem&repo=Eridu&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=FF6B6B&text_color=a9b1d6" />
+<a href="https://github.com/developerachem/developerachem">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=developerachem&repo=developerachem&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=FF6B6B&text_color=a9b1d6" />
 </a>&nbsp;
-<a href="https://github.com/developerachem/looping">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=developerachem&repo=looping&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=FF6B6B&text_color=a9b1d6" />
+<a href="https://github.com/developerachem/express-boilerplate">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=developerachem&repo=express-boilerplate&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=FF6B6B&text_color=a9b1d6" />
 </a>
 
-<a href="https://github.com/developerachem/challenge_blur_us">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=developerachem&repo=challenge_blur_us&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=FF6B6B&text_color=a9b1d6" />
+<a href="https://github.com/developerachem/ETL-Software">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=developerachem&repo=ETL-Software&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=FF6B6B&text_color=a9b1d6" />
 </a>&nbsp;
-<a href="https://github.com/developerachem/class-7-assignment-4">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=developerachem&repo=class-7-assignment-4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=FF6B6B&text_color=a9b1d6" />
+<a href="https://github.com/developerachem/notification-test">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=developerachem&repo=notification-test&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=FF6B6B&text_color=a9b1d6" />
 </a>
 
 </div>
@@ -244,6 +244,8 @@ life_motto: "Code is poetry — write it beautifully."
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/developerachem/developerachem/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/developerachem/developerachem/output/github-snake.svg" />
 </picture>
+
+> 💡 *If the snake animation doesn't appear yet, go to [Actions](https://github.com/developerachem/developerachem/actions) → "Generate Snake Animation" → "Run workflow" to generate it for the first time.*
 
 </div>
 
