@@ -1,57 +1,281 @@
-<img width="100%" src="https://i.ibb.co/dgVFmSD/Portfolio-page-banner.jpg" /> 
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                         🚀 DEVELOPER ACHEM — GITHUB PROFILE               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h1 >Hi 👋, I'm Developer Achem</h1>
+<div align="center">
 
-<hr>
+<!-- ─── HEADER BANNER ──────────────────────────────────────────────────────── -->
+<img src="./header_banner.png" alt="Developer Achem — Banner" width="100%" />
 
-<p align="center">
-  <img height="150" src="https://i.ibb.co/2SV91vK/Achem-1.png"  />
-</p>
+<!-- ─── ANIMATED TYPING ────────────────────────────────────────────────────── -->
+<br/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Developer+Achem;%E2%9A%A1+MERN+Stack+Developer+%7C+Frontend+Specialist;%F0%9F%9A%80+Building+Scalable+Web+%26+Mobile+Apps)](https://git.io/typing-svg)
 
-<p>As a front-end web developer with back-end proficiency, I thrive on discussing technology, software, coding, and innovative ideas. <br>
-I'm actively seeking employment opportunities, whether they are in the onsite or remote.</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developerachem&label=Profile%20views&color=0e75b6&style=flat" alt="developerachem" /> </p>
-<p> <a href="https://twitter.com/developerachem" target="_blank"><img src="https://img.shields.io/twitter/follow/developerachem?logo=twitter&style=for-the-badge" alt="developerachem" /></a> <a href="https://www.linkedin.com/in/developerachem/" target="_blank" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  /> </a>
-</p>
-
-- 🌱 I’m currently learning *****Electron JS*****
-- 🔭 I’m currently working on ****Fluxx****
-
-
-<h3>Specialized In </h3> 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a2042e7183b80291f7a9b360ee5b0390cc7bb4ee163e0304d43659a5000ecba0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d626c61636b"><img src="https://camo.githubusercontent.com/a2042e7183b80291f7a9b360ee5b0390cc7bb4ee163e0304d43659a5000ecba0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d626c61636b" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&amp;logo=JavaScript&amp;logoColor=black" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f52f5a7e8d4ae7493db2127b25f55711d6353f65c7ed585024c80ee9febfa8d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3331373843362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d54797065536372697074266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/f52f5a7e8d4ae7493db2127b25f55711d6353f65c7ed585024c80ee9febfa8d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3331373843362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d54797065536372697074266c6f676f436f6c6f723d7768697465" alt="TypeScript" data-canonical-src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&amp;logo=TypeScript&amp;logoColor=white" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e8b5c0e7655da40f744e9ab9e1299a7162f415c1b98d57c21f19fa08390e9b3d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d5265616374266c6f676f436f6c6f723d626c61636b"><img src="https://camo.githubusercontent.com/e8b5c0e7655da40f744e9ab9e1299a7162f415c1b98d57c21f19fa08390e9b3d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d5265616374266c6f676f436f6c6f723d626c61636b" alt="React.js" data-canonical-src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&amp;logo=React&amp;logoColor=black" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/779e3206a2f918f62c50b9e8141c8b29a50d0cc6986973ae93ebbffc61fe15f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3736344142432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d5265647578266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/779e3206a2f918f62c50b9e8141c8b29a50d0cc6986973ae93ebbffc61fe15f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3736344142432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d5265647578266c6f676f436f6c6f723d7768697465" alt="Redux" data-canonical-src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&amp;logo=Redux&amp;logoColor=white" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3bbfc738a2b60034baa0d72440f904f540dac0b1e31dc1cea5fcb35d8a4db2c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e642532304353532d3036423644342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d5461696c77696e642d435353266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/3bbfc738a2b60034baa0d72440f904f540dac0b1e31dc1cea5fcb35d8a4db2c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e642532304353532d3036423644342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d5461696c77696e642d435353266c6f676f436f6c6f723d7768697465" alt="Tailwind" data-canonical-src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&amp;logo=Tailwind-CSS&amp;logoColor=white" style="max-width: 100%;"></a> <a   href="https://camo.githubusercontent.com/306dedb9426f1d93a981d305a0a18164932ece8dca4d5fd820b1d3c36625b218/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e737667" target="_blank"> <img src="https://i.ibb.co/4jgZP2t/images-35.jpg" height="28px"  > </a> </p>
-
-
-<h3>Tools:</h3>
+<!-- ─── PROFILE VIEWS & SOCIAL BADGES ──────────────────────────────────────── -->
 
 <p>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1b9c3034aa078ebfac8da21d4a43ab67da92ad801a08c4b9b04cfecfb54df2d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d56697375616c2d53747564696f2d436f6465266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/1b9c3034aa078ebfac8da21d4a43ab67da92ad801a08c4b9b04cfecfb54df2d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d56697375616c2d53747564696f2d436f6465266c6f676f436f6c6f723d7768697465" alt="VS Code" data-canonical-src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&amp;logo=Visual-Studio-Code&amp;logoColor=white" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e56fabf10c6279837b862f53dab44e7a4afedbb2ee9b4c91881e5d22e6f379e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d476974266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/e56fabf10c6279837b862f53dab44e7a4afedbb2ee9b4c91881e5d22e6f379e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d476974266c6f676f436f6c6f723d7768697465" alt="Git" data-canonical-src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&amp;logo=Git&amp;logoColor=white" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ab157f6775de79be0a1001ed37be1ec4ec4529a9de146f306700d725aea9bce5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/ab157f6775de79be0a1001ed37be1ec4ec4529a9de146f306700d725aea9bce5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465" alt="Github" data-canonical-src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0c93f74bb993c965a32c516cc63016ff0ffc366d43c7dd59aac3c33992bfb64a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d4632344531452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4669676d61266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/0c93f74bb993c965a32c516cc63016ff0ffc366d43c7dd59aac3c33992bfb64a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d4632344531452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4669676d61266c6f676f436f6c6f723d7768697465" alt="Figma" data-canonical-src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&amp;logo=Figma&amp;logoColor=white" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dd72407e4f508f754fd9e283c4707eba3c3acd439114eb34e37ec51b66fd9b93/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f566974652d3634364346462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d56697465266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/dd72407e4f508f754fd9e283c4707eba3c3acd439114eb34e37ec51b66fd9b93/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f566974652d3634364346462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d56697465266c6f676f436f6c6f723d7768697465" alt="Vite" data-canonical-src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&amp;logo=Vite&amp;logoColor=white" style="max-width: 100%;"></a>
-</p>
-
-# 💻 Tech Stack:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,github,mongodb,express,react,nodejs,tailwind,materialui,bootstrap,firebase&perline=4" />
+  <a href="https://github.com/developerachem">
+    <img src="https://komarev.com/ghpvc/?username=developerachem&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/developerachem?tab=followers">
+    <img src="https://img.shields.io/github/followers/developerachem?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/developerachem?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/developerachem?label=Total%20Stars&style=for-the-badge&color=f5c542&labelColor=c9a631&logo=github" alt="GitHub Stars" />
   </a>
 </p>
 
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/developerachem" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="developerachem" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/developer-achem-137b18227/?originalSubdomain=bd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developerachem" height="30" width="40" /></a>
-<a href="https://fb.com/developerachem" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="developerachem" height="30" width="40" /></a>
-<a href="https://discord.gg/developerachem" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="developerachem" height="30" width="40" /></a>
-</p>
+<!-- ─── HORIZONTAL DIVIDER ─────────────────────────────────────────────────── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h3 align="left">🔥 My Stats:</h3>
-<p><img src="https://streak-stats.demolab.com?user=developerachem&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> </p>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              ABOUT ME                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h3>🔥 My Progress:</h3>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
+
+<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+```yaml
+name: Developer Achem
+located_in: Dhaka, Bangladesh 🇧🇩
+current_role: Frontend Developer | MERN Stack Developer
+company: Working on exciting projects ✨
+
+education:
+  - "Computer Science & Engineering"
+
+focus_areas:
+  - "Building scalable web applications"
+  - "Cross-platform mobile development"
+  - "Modern UI/UX design & implementation"
+  - "RESTful API architecture"
+
+life_motto: "Code is poetry — write it beautifully."
+```
+
+<br/>
+
+- 🔭 &nbsp;I'm currently working on **Flux** & exciting open-source projects
+- 🌱 &nbsp;I'm currently learning **Electron JS** & exploring AI integrations
+- 💬 &nbsp;Ask me about **React, React Native, Next.js, Node.js, or anything Web**
+- 📫 &nbsp;Reach me at **developerachem@gmail.com**
+- 🌐 &nbsp;Check out my portfolio: **[developerachem.com](https://developerachem.com)**
+- ⚡ &nbsp;Fun fact: I love discussing technology, software, coding, and innovative ideas!
+
+<br clear="both"/>
+
+<!-- ─── HORIZONTAL DIVIDER ─────────────────────────────────────────────────── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                         CONNECT WITH ME                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp;Connect with Me
+
+<div align="center">
+
+<a href="https://developerachem.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+</a>&nbsp;
+<a href="https://linkedin.com/in/developer-achem" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>&nbsp;
+<a href="https://twitter.com/developerachem" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>&nbsp;
+<a href="https://facebook.com/developerachem" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>&nbsp;
+<a href="https://instagram.com/developerachem" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>&nbsp;
+<a href="mailto:developerachem@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ─── HORIZONTAL DIVIDER ─────────────────────────────────────────────────── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                            TECH STACK                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🛠️ &nbsp;Tech Arsenal
+
+<div align="center">
+
+### 💻 &nbsp;Frontend & UI
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+### ⚙️ &nbsp;Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🧰 &nbsp;Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- ─── HORIZONTAL DIVIDER ─────────────────────────────────────────────────── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                          GITHUB STATS                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> &nbsp;GitHub Analytics
+
+<div align="center">
+
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developerachem&show_icons=true&locale=en&layout=compact" alt="developerachem" /> 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=developerachem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=a9b1d6&ring_color=36BCF7" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=developerachem&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" alt="GitHub Streak" />
 </p>
 
+<p>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerachem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=a9b1d6&langs_count=8" alt="Top Languages" />
+</p>
 
+<!-- ─── CONTRIBUTION GRAPH ─────────────────────────────────────────────────── -->
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=developerachem&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FF6B6B&area=true&area_color=36BCF7&hide_border=true" width="95%" alt="Contribution Graph" />
+
+</div>
+
+<br/>
+
+<!-- ─── HORIZONTAL DIVIDER ─────────────────────────────────────────────────── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                          GITHUB TROPHIES                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🏆 &nbsp;GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=developerachem&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" alt="GitHub Trophies" />
+
+</div>
+
+<br/>
+
+<!-- ─── HORIZONTAL DIVIDER ─────────────────────────────────────────────────── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                         FEATURED PROJECTS                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🚀 &nbsp;Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/developerachem/Eridu">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=developerachem&repo=Eridu&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=FF6B6B&text_color=a9b1d6" />
+</a>&nbsp;
+<a href="https://github.com/developerachem/looping">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=developerachem&repo=looping&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=FF6B6B&text_color=a9b1d6" />
+</a>
+
+<a href="https://github.com/developerachem/challenge_blur_us">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=developerachem&repo=challenge_blur_us&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=FF6B6B&text_color=a9b1d6" />
+</a>&nbsp;
+<a href="https://github.com/developerachem/class-7-assignment-4">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=developerachem&repo=class-7-assignment-4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=FF6B6B&text_color=a9b1d6" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ─── HORIZONTAL DIVIDER ─────────────────────────────────────────────────── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                      SNAKE CONTRIBUTION GRAPH                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🐍 &nbsp;Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/developerachem/developerachem/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/developerachem/developerachem/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/developerachem/developerachem/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ─── HORIZONTAL DIVIDER ─────────────────────────────────────────────────── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                        SPOTIFY / CURRENT VIBES                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 💡 &nbsp;Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="70%"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                            FOOTER                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                         END OF README                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
