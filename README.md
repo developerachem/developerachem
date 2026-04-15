@@ -161,19 +161,13 @@ life_motto: "Code is poetry — write it beautifully."
 <div align="center">
 
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=developerachem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=a9b1d6&ring_color=36BCF7" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-one.vercel.app/api?username=developerachem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=a9b1d6&ring_color=36BCF7" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=developerachem&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" alt="GitHub Streak" />
 </p>
 
 <p>
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerachem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=a9b1d6&langs_count=8" alt="Top Languages" />
+  <img width="42%" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=developerachem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=a9b1d6&langs_count=8" alt="Top Languages" />
 </p>
-
-<!-- ─── CONTRIBUTION GRAPH ─────────────────────────────────────────────────── -->
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=developerachem&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FF6B6B&area=true&area_color=36BCF7&hide_border=true" width="95%" alt="Contribution Graph" />
 
 </div>
 
@@ -183,17 +177,16 @@ life_motto: "Code is poetry — write it beautifully."
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          GITHUB TROPHIES                                   -->
+<!--                          LANGUAGES & ACTIVITY                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 🏆 &nbsp;GitHub Trophies
+## <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXMTd/giphy.gif" width="30"> &nbsp;Languages & Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=developerachem&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" alt="GitHub Trophies" />
-
-<!-- Fallback if above doesn't load -->
-<!-- <img src="https://github-trophies.vercel.app/?username=developerachem&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="95%" alt="GitHub Trophies" /> -->
+<img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=developerachem&layout=doughnut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=a9b1d6" height="220" alt="Top Languages Doughnut" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=developerachem&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FF6B6B&area=true&area_color=36BCF7&hide_border=true" height="220" alt="Activity Graph" />
 
 </div>
 
@@ -211,17 +204,17 @@ life_motto: "Code is poetry — write it beautifully."
 <div align="center">
 
 <a href="https://github.com/developerachem/developerachem">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=developerachem&repo=developerachem&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=FF6B6B&text_color=a9b1d6" />
+  <img width="49%" src="https://github-readme-stats-one.vercel.app/api/pin/?username=developerachem&repo=developerachem&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=FF6B6B&text_color=a9b1d6" />
 </a>&nbsp;
-<a href="https://github.com/developerachem/express-boilerplate">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=developerachem&repo=express-boilerplate&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=FF6B6B&text_color=a9b1d6" />
+<a href="https://github.com/developerachem/swoope-backend">
+  <img width="49%" src="https://github-readme-stats-one.vercel.app/api/pin/?username=developerachem&repo=swoope-backend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=FF6B6B&text_color=a9b1d6" />
 </a>
 
 <a href="https://github.com/developerachem/ETL-Software">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=developerachem&repo=ETL-Software&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=FF6B6B&text_color=a9b1d6" />
+  <img width="49%" src="https://github-readme-stats-one.vercel.app/api/pin/?username=developerachem&repo=ETL-Software&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=FF6B6B&text_color=a9b1d6" />
 </a>&nbsp;
-<a href="https://github.com/developerachem/notification-test">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=developerachem&repo=notification-test&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=FF6B6B&text_color=a9b1d6" />
+<a href="https://github.com/developerachem/express-boilerplate">
+  <img width="49%" src="https://github-readme-stats-one.vercel.app/api/pin/?username=developerachem&repo=express-boilerplate&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=FF6B6B&text_color=a9b1d6" />
 </a>
 
 </div>
